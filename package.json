@@ -1,0 +1,25 @@
+{
+  "name": "book_record_management",
+  "version": "1.0.0",
+  "description": "book-recoed management app with express",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mihir210/book-record-management.git"
+  },
+  "author": "mihir",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mihir210/book-record-management/issues"
+  },
+  "homepage": "https://github.com/mihir210/book-record-management#readme",
+  "dependencies": {
+    "express": "^4.18.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.19"
+  }
+}
