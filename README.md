@@ -53,7 +53,9 @@ GET : get all issued book with fine
 
 # subscription types
 basic (3 months)
+
 standard (6 months)
+
 premium (12 months)
 
 if the subscription date is 01/08/2022 and subscription type is standard the valid date will be 01/01/2023
