@@ -6,7 +6,7 @@ This is book record managenment API backend for management of records and books
 
 # Full documentation
 
-![documentation](https://documenter.getpostman.com/view/22926184/VUxKSoaT)
+documentation(https://documenter.getpostman.com/view/22926184/VUxKSoaT)
 
 ---
 
