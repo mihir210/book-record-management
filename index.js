@@ -1,12 +1,15 @@
-const express = require('express')
-
-
-
+const express = require('express');
 const userrouter = require('./routes/users');
 const booksrouter = require('./routes/books');
+const dotenv = require('dotenv');
+const dbcon = require('./db');
+
+dotenv.config();
+
 
 
 const app = express();
+dbcon();
 
 const port = 4552;
 
